@@ -28,3 +28,7 @@ I collected NBA salary data from Spotrac and advanced player statistics from Bas
 - Spotrac — NBA salary rankings
 - Basketball Reference — 2024–25 advanced player statistics
 - NBA API — player IDs and headshot images
+
+## Visualization
+
+![NBA Salary vs. Performance](NBA_VORP_Graph.png)
